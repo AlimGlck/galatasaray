@@ -1,0 +1,97 @@
+body{
+    background: rgb(255,226,0);
+background: linear-gradient(90deg, rgba(255,226,0,1) 50%, rgba(255,0,0,1) 50%); 
+margin: 0px;
+overflow-x: hidden;
+
+    }
+
+body::-webkit-scrollbar{
+    display: none;
+}
+
+h1.Efsaneler{
+    margin-right: 60px;
+    font-size: 50px;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    }
+
+    h1.Galatasaray{
+        margin-right:9px ;
+        font-size: 80px;
+        color:rgb(0, 0, 0);
+        text-align: center;
+        font-family: 'Cinzel', serif;
+    }
+
+     h2.Galatasaray{
+        color:rgb(0, 0, 0);
+        text-align: center;
+        font-family: 'Cinzel', serif;
+        font-size: 50px;
+        margin-right: 9px;
+     }
+
+a.oyuncular{
+    font-family: 'Satisfy', cursive;
+    text-decoration: none;
+    font-size: 40px;
+    color:darkred;
+    }
+
+    .soz{
+        font-family: 'Satisfy', cursive;
+        font-size: 40px;
+        color:gold;
+    }
+    
+
+    .navbar{
+        overflow: hidden;
+        background-color:white;
+        position: fixed;
+        
+        bottom: 0;
+        height: 100px;
+        width: 100%;
+    }
+
+    .Galatasaray{
+        font-family: 'Podkova', serif;
+        font-size: 30px;
+        color: darkred;
+    }
+
+    .navbar a{
+        float: left;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: black;
+        color: white;
+        border: 1px solid white;
+        height: 100px;
+        width: 1021px;
+        text-decoration: none;
+        font-size: 40px;
+        bottom: 10px;
+        font-family: 'IM Fell English SC', serif;
+    }
+
+    footer{
+        
+        
+        
+        
+        
+
+        
+    }
+
+
+    footer a{
+        
+        
+    }
